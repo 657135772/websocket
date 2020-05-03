@@ -19,6 +19,7 @@ void log_init()
 
 int main()
 {
+	// 读取配置
 	int		lisport;
 	string	chqip;
 	int		chqport;
